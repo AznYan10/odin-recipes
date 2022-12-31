@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+
+#chefLogo {
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    font-size: 20px;
+    text-align: center;
+    margin: auto 40em;
+}
